@@ -1,0 +1,8 @@
+# Netlify publishes only the "public" folder. Sources, pictures and the skill stay out of the site.
+[build]
+  publish = "public"
+
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"

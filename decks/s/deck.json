@@ -1,0 +1,19 @@
+{
+ "title": "Слоненя Сава і звук С",
+ "letter": "С",
+ "heroName": "Слоненя Сава",
+ "path": "s",
+ "titleBg": "bg_oasis",
+ "float1": "sumka",
+ "float2": "sontse",
+ "float3": "samokat",
+ "heroWave": "sava_wave",
+ "heroCheer": "sava_cheer",
+ "hello": "С-с-с! Привіт!",
+ "cheer": "Супер!",
+ "say": "С-с-с!",
+ "voice": "whistle",
+ "night": "#0e2a47",
+ "glow": "#1d5a86",
+ "titleSize": 138
+}

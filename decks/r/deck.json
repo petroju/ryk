@@ -1,0 +1,19 @@
+{
+ "title": "Тигреня Рик і звук Р",
+ "letter": "Р",
+ "heroName": "Тигреня Рик",
+ "path": "",
+ "titleBg": "bg_title",
+ "float1": "raketa",
+ "float2": "ryba",
+ "float3": "robot",
+ "heroWave": "hero_wave",
+ "heroCheer": "hero_cheer",
+ "hello": "Р-р-р! Привіт!",
+ "cheer": "Ур-р-ра!",
+ "say": "Р-р-р!",
+ "voice": "growl",
+ "night": "#1b1640",
+ "glow": "#2d2468",
+ "titleSize": 150
+}
